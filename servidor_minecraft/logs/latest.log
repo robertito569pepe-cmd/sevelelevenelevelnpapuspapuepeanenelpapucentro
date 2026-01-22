@@ -1,0 +1,268 @@
+[18:27:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:27:07] [ServerMain/INFO]: Loaded 1470 recipes
+[18:27:07] [ServerMain/INFO]: Loaded 1584 advancements
+[18:27:07] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[18:27:07] [Server thread/INFO]: Loading properties
+[18:27:07] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:07] [Server thread/INFO]: Generating keypair
+[18:27:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:27:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:27:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:27:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:27:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:27:07] [Server thread/INFO]: Preparing level "world"
+[18:27:08] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:27:08] [Server thread/INFO]: Preparing spawn area: 100%
+[18:27:08] [Server thread/INFO]: Time elapsed: 14 ms
+[18:27:08] [Server thread/INFO]: Done (0.507s)! For help, type "help"
+[18:28:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:28:12] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:28:37] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:52680] logged in with entity id 92 at (-266.108992204752, 14.001335979112149, -550.2872434174191)
+[18:28:37] [Server thread/INFO]: ADRC_Xx joined the game
+[18:28:44] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:34:09] [Server thread/INFO]: ADRC_Xx has made the advancement [Suit Up]
+[18:37:35] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:42:19] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:43:14] [Server thread/INFO]: ADRC_Xx has made the advancement [Diamonds!]
+[18:43:22] [Server thread/INFO]: [Not Secure] [Server] gg
+[18:48:01] [Server thread/INFO]: [Not Secure] [Server] asdf
+[18:50:13] [Server thread/INFO]: Villager dcx['Fisherman'/753, l='ServerLevel[world]', x=-400.93, y=71.00, z=-874.97] died, message: 'Fisherman was speared by Zombie'
+[18:50:23] [Server thread/INFO]: Villager dcx['Fisherman'/752, l='ServerLevel[world]', x=-400.72, y=68.00, z=-855.63] died, message: 'Fisherman was speared by Zombie'
+[18:51:42] [Server thread/INFO]: Villager dcx['Fisherman'/756, l='ServerLevel[world]', x=-462.54, y=74.00, z=-928.95] died, message: 'Fisherman was slain by Husk'
+[18:54:54] [Server thread/INFO]: [Not Secure] [Server] asd
+[18:59:29] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:02:14] [Server thread/INFO]: ADRC_Xx has made the advancement [Not Today, Thank You]
+[19:02:19] [Server thread/INFO]: ADRC_Xx was shot by Skeleton
+[19:02:31] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:03:51] [Server thread/INFO]: Teleported ADRC_Xx to -657.500000, 65.000000, -367.500000
+[19:07:04] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:09:43] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:16:10] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:21:42] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:29:04] [Server thread/INFO]: Gave 64 [Cooked Porkchop] to ADRC_Xx
+[19:32:30] [Server thread/INFO]: ADRC_Xx has made the advancement [Ol' Betsy]
+[19:32:31] [Server thread/INFO]: ADRC_Xx has made the advancement [Take Aim]
+[19:32:34] [Server thread/INFO]: ADRC_Xx has made the advancement [Who's the Pillager Now?]
+[19:32:51] [Server thread/INFO]: ADRC_Xx has made the advancement [Voluntary Exile]
+[19:33:35] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[19:33:35] [Server thread/INFO]: <--[HERE]
+[19:34:33] [Server thread/INFO]: The sound is too far away to be heard
+[19:34:36] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[19:34:36] [Server thread/INFO]: <--[HERE]
+[19:36:29] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:39:32] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[19:39:32] [Server thread/INFO]: <--[HERE]
+[19:42:48] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:44:33] [Server thread/INFO]: ADRC_Xx has made the advancement [Eye Spy]
+[19:47:08] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:47:24] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:50075] logged in with entity id 30755 at (-487.4557495843787, 200.5625, 1861.5548747464043)
+[19:47:24] [Server thread/INFO]: UPFUTX_300 joined the game
+[19:47:49] [Server thread/INFO]: ADRC_Xx lost connection: Disconnected
+[19:47:49] [Server thread/INFO]: ADRC_Xx left the game
+[19:47:53] [Server thread/WARN]: UPFUTX_300 moved too quickly! 1.2856228111335213,-10.801818083422347,0.1068412747642924
+[19:47:56] [Server thread/INFO]: ADRC_Xx[/10.242.96.252:63436] logged in with entity id 31102 at (-306.8302257571861, 17.0, 1904.0917133950252)
+[19:47:56] [Server thread/INFO]: ADRC_Xx joined the game
+[19:48:57] [Server thread/INFO]: ADRC_Xx has made the advancement [We Need to Go Deeper]
+[19:49:26] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-19, y=50, z=233} is{x=-15, y=53, z=233}
+[19:50:56] [Server thread/INFO]: [UPFUTX_300: Teleported ADRC_Xx to UPFUTX_300]
+[19:51:19] [Server thread/INFO]: ADRC_Xx lost connection: Disconnected
+[19:51:19] [Server thread/INFO]: ADRC_Xx left the game
+[19:52:14] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:53:17] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:53:35] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:56:14] [Server thread/INFO]: Villager dcx['Villager'/33619, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[19:56:16] [Server thread/INFO]: Villager dcx['Villager'/33610, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[19:56:24] [Server thread/INFO]: [Not Secure] [Server] asd
+[19:56:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[19:57:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:57:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[19:58:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:58:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[19:59:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[19:59:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:00:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:00:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:01:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:01:34] [Server thread/INFO]: Villager dcx['Villager'/33623, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[20:01:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:02:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:02:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:03:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:03:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:04:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:04:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:05:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:06:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:06:40] [Server thread/INFO]: UPFUTX_300 lost connection: Timed out
+[20:06:40] [Server thread/INFO]: UPFUTX_300 left the game
+[20:06:41] [Server thread/WARN]: handleDisconnection() called twice
+[20:07:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:07:40] [Server thread/INFO]: [Not Secure] [Server] asdf
+[20:07:44] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:62505] logged in with entity id 36204 at (869.3000000119209, 57.0, 2043.699999988079)
+[20:07:44] [Server thread/INFO]: UPFUTX_300 joined the game
+[20:08:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:08:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:09:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:09:17] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:09:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:10:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:10:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:11:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:11:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:12:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:12:45] [Server thread/INFO]: [Not Secure] <UPFUTX_300> a
+[20:13:15] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asd
+[20:13:33] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:17:23] [Server thread/INFO]: Villager dcx['Villager'/36112, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[20:17:43] [Server thread/INFO]: [Not Secure] <UPFUTX_300> sad
+[20:17:49] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:21:44] [Server thread/INFO]: [Not Secure] [Server] sds
+[20:22:50] [Server thread/INFO]: Villager dcx['Villager'/36119, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[20:27:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=930, y=76, z=2066} is{x=930, y=74, z=2065}
+[20:27:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=932, y=77, z=2065} is{x=930, y=74, z=2065}
+[20:27:32] [Server thread/WARN]: Mismatch in destroy block pos: is{x=931, y=76, z=2063} is{x=930, y=77, z=2064}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=932, y=70, z=2064} is{x=931, y=68, z=2064}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=929, y=70, z=2067} is{x=931, y=68, z=2064}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=932, y=70, z=2066} is{x=931, y=69, z=2064}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=931, y=70, z=2067} is{x=930, y=69, z=2065}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=930, y=70, z=2062} is{x=930, y=69, z=2065}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=930, y=70, z=2062} is{x=930, y=69, z=2065}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=930, y=70, z=2062} is{x=931, y=68, z=2065}
+[20:27:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=930, y=69, z=2067} is{x=930, y=68, z=2065}
+[20:30:41] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:32:10] [Server thread/INFO]: Villager dcx['Villager'/36123, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[20:34:41] [Server thread/WARN]: UPFUTX_300 moved too quickly! -10.746567403042661,0.0,0.583640252395071
+[20:34:49] [Server thread/WARN]: UPFUTX_300 moved too quickly! -12.172697021449778,0.0,-1.2089053675872492
+[20:35:38] [Server thread/WARN]: UPFUTX_300 moved too quickly! 6.840302686644861,7.289769616502447,3.4863371495082447
+[20:38:30] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[20:38:52] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:39:14] [Server thread/INFO]: Villager dcx['Villager'/48041, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[20:39:57] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:41:51] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[20:41:51] [Server thread/INFO]: 	 say asd<--[HERE]
+[20:41:53] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:44:37] [Server thread/INFO]: Villager dcx['Villager'/48045, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[20:46:42] [Server thread/INFO]: [Not Secure] [Server] asd
+[20:47:53] [Server thread/INFO]: Villager dcx['Villager'/48048, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[20:48:18] [Server thread/INFO]: Villager dcx['Villager'/48053, l='ServerLevel[world]', x=917.30, y=64.00, z=2038.70] died, message: 'Villager was squished too much'
+[20:48:54] [Server thread/INFO]: hoa_xd[/10.242.148.126:59895] logged in with entity id 51809 at (14840.297703352973, 155.0, -6490.401698823496)
+[20:48:54] [Server thread/INFO]: hoa_xd joined the game
+[20:49:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> OA
+[20:49:02] [Server thread/INFO]: [Not Secure] <hoa_xd> hoa
+[20:49:04] [Server thread/INFO]: [Not Secure] <hoa_xd> a llegado
+[20:49:08] [Server thread/INFO]: [Not Secure] <UPFUTX_300> OLA
+[20:49:10] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asas
+[20:51:05] [Server thread/INFO]: [Not Secure] <UPFUTX_300> quiero it a cagar oa...
+[20:51:14] [Server thread/INFO]: [Not Secure] <hoa_xd> nomejoda
+[20:51:17] [Server thread/INFO]: [Not Secure] <hoa_xd> weno
+[20:51:34] [Server thread/INFO]: [Not Secure] <UPFUTX_300> pero tengo que mantener el codespace activo
+[20:51:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> okhisbdfuobdfuasbdfasdbfaishdf
+[20:52:09] [Server thread/INFO]: [Not Secure] [Server] sfndfkjhdskjlan
+[20:54:31] [Server thread/INFO]: [Not Secure] <UPFUTX_300> SE PUEDE CONFIGURAR A 4 HORAS DE INACTIVIDAD EL CODES PACE
+[20:54:33] [Server thread/INFO]: [Not Secure] <UPFUTX_300> fdhfsodáoudadsúf
+[20:54:38] [Server thread/INFO]: [Not Secure] <UPFUTX_300> toca configurar eso
+[20:54:40] [Server thread/INFO]: [Not Secure] <hoa_xd> legal
+[20:54:44] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y ahi voy a cagar tranquilo
+[20:54:53] [Server thread/INFO]: [Not Secure] <hoa_xd> k godd
+[20:55:41] [Server thread/WARN]: UPFUTX_300 moved too quickly! 8.339173582299622,0.0,6.946381407776698
+[20:55:57] [Server thread/INFO]: [Not Secure] <UPFUTX_300> haz zz
+[20:55:58] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[20:55:58] [Server thread/INFO]: hoa_xd left the game
+[20:56:04] [Server thread/INFO]: hoa_xd[/10.242.148.126:63688] logged in with entity id 55205 at (13802.687029648841, 90.0, -6436.651615175249)
+[20:56:04] [Server thread/INFO]: hoa_xd joined the game
+[20:58:04] [Server thread/INFO]: hoa_xd lost connection: Timed out
+[20:58:04] [Server thread/INFO]: hoa_xd left the game
+[20:58:40] [Server thread/INFO]: [Not Secure] <UPFUTX_300> calajo opa ir a cagar gene
+[20:58:43] [Server thread/INFO]: [Not Secure] <UPFUTX_300> gente
+[20:58:44] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asdasdas
+[21:02:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=931, y=90, z=2064} is{x=931, y=89, z=2065}
+[21:02:36] [Server thread/WARN]: Mismatch in destroy block pos: is{x=932, y=89, z=2064} is{x=932, y=87, z=2065}
+[21:02:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=932, y=88, z=2064} is{x=932, y=86, z=2065}
+[21:02:39] [Server thread/WARN]: Mismatch in destroy block pos: is{x=932, y=87, z=2064} is{x=932, y=84, z=2065}
+[21:02:44] [Server thread/INFO]: hoa_xd[/10.242.148.126:64563] logged in with entity id 58932 at (13812.699999988079, 53.0, -6571.699999988079)
+[21:02:44] [Server thread/INFO]: hoa_xd joined the game
+[21:05:45] [Server thread/INFO]: Villager dcx['Villager'/48040, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[21:06:55] [Server thread/INFO]: hoa_xd has made the advancement [The Cutest Predator]
+[21:07:46] [Server thread/INFO]: Villager dcx['Villager'/48044, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[21:08:01] [Server thread/INFO]: Villager dcx['Villager'/48051, l='ServerLevel[world]', x=917.70, y=64.00, z=2038.30] died, message: 'Villager was squished too much'
+[21:08:44] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no zz?
+[21:08:49] [Server thread/INFO]: [Not Secure] <hoa_xd> pera
+[21:08:53] [Server thread/INFO]: [Not Secure] <UPFUTX_300> oka
+[21:08:53] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[21:08:53] [Server thread/INFO]: hoa_xd left the game
+[21:09:00] [Server thread/INFO]: hoa_xd[/10.242.148.126:64921] logged in with entity id 64708 at (13727.843009469088, -37.0, -6497.699999988079)
+[21:09:00] [Server thread/INFO]: hoa_xd joined the game
+[21:10:14] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:12:05] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[21:12:05] [Server thread/INFO]: sayihño<--[HERE]
+[21:12:06] [Server thread/INFO]: [Not Secure] [Server] kl
+[21:15:25] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13542, y=-52, z=-6452} is{x=13544, y=-53, z=-6453}
+[21:15:31] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13553, y=-55, z=-6460} is{x=13552, y=-55, z=-6459}
+[21:15:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13550, y=-54, z=-6461} is{x=13550, y=-53, z=-6461}
+[21:15:34] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13550, y=-54, z=-6461} is{x=13550, y=-53, z=-6461}
+[21:23:18] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:24:07] [Server thread/INFO]: [Not Secure] <UPFUTX_300> zz?
+[21:24:17] [Server thread/INFO]: [Not Secure] <hoa_xd> voy
+[21:24:21] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[21:24:21] [Server thread/INFO]: hoa_xd left the game
+[21:24:26] [Server thread/INFO]: hoa_xd[/10.242.148.126:49348] logged in with entity id 75522 at (13344.571677324198, -27.0, -6372.884365425364)
+[21:24:26] [Server thread/INFO]: hoa_xd joined the game
+[21:30:06] [Server thread/WARN]: hoa_xd moved too quickly! -2.6698807198972645,-0.06383597911214878,9.736627058666272
+[21:30:23] [Server thread/WARN]: hoa_xd moved too quickly! -3.210927535112205,0.04353562014749457,9.775111003702477
+[21:30:30] [Server thread/WARN]: hoa_xd moved too quickly! -9.969314415393455,1.0,-1.9669842047424027
+[21:31:42] [Server thread/INFO]: hoa_xd lost connection: Timed out
+[21:31:42] [Server thread/INFO]: hoa_xd left the game
+[21:31:46] [Server thread/INFO]: hoa_xd[/10.242.148.126:49762] logged in with entity id 78974 at (13780.303767933428, -35.0, -6430.300000011921)
+[21:31:46] [Server thread/INFO]: hoa_xd joined the game
+[21:32:27] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13798, y=-43, z=-6477} is{x=13797, y=-43, z=-6479}
+[21:32:27] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13798, y=-43, z=-6477} is{x=13797, y=-43, z=-6479}
+[21:32:30] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13792, y=-42, z=-6485} is{x=13792, y=-43, z=-6485}
+[21:32:46] [Server thread/INFO]: [Not Secure] [Server] asd4
+[21:33:52] [Server thread/INFO]: [Not Secure] <UPFUTX_300> asdas
+[21:34:03] [Server thread/INFO]: [Not Secure] <UPFUTX_300> me hcie daño y no me conto
+[21:34:06] [Server thread/INFO]: [Not Secure] <UPFUTX_300> watfak
+[21:34:12] [Server thread/INFO]: [Not Secure] <hoa_xd> waos
+[21:37:09] [Server thread/INFO]: [Not Secure] <UPFUTX_300> por que aparecen mods en la granja???
+[21:37:16] [Server thread/WARN]: Mismatch in destroy block pos: is{x=13732, y=-6, z=-6515} is{x=13733, y=-5, z=-6515}
+[21:37:21] [Server thread/INFO]: [Not Secure] <hoa_xd> ni idea
+[21:37:28] [Server thread/INFO]: [Not Secure] <UPFUTX_300> es una granja de caña de azucar watafak
+[21:37:29] [Server thread/INFO]: [Not Secure] <hoa_xd> no iluminaste
+[21:37:31] [Server thread/INFO]: [Not Secure] <hoa_xd> a
+[21:37:32] [Server thread/INFO]: [Not Secure] <hoa_xd> XD
+[21:37:36] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xdddddd4
+[21:37:37] [Server thread/INFO]: [Not Secure] <UPFUTX_300> HOW
+[21:37:44] [Server thread/INFO]: [Not Secure] <UPFUTX_300> HAY cAÑA DE AZUCAR Y APARECEN AHI
+[21:37:46] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ENFERMOS
+[21:37:52] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[21:38:05] [Server thread/INFO]: [Not Secure] <UPFUTX_300> AMIGO COMO APARACIO UN ENDERMAN
+[21:38:09] [Server thread/INFO]: [Not Secure] <hoa_xd> JAJA
+[21:38:10] [Server thread/INFO]: [Not Secure] <UPFUTX_300> MALDITO ESE ME ROBA LOS BLOQUES
+[21:39:34] [Server thread/INFO]: [Not Secure] <UPFUTX_300> bueo ahora granja de creepers
+[21:39:40] [Server thread/INFO]: [Not Secure] <UPFUTX_300> zz ? ;·
+[21:39:41] [Server thread/INFO]: [Not Secure] <UPFUTX_300> :3
+[21:39:43] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[21:39:43] [Server thread/INFO]: hoa_xd left the game
+[21:46:28] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[21:47:56] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:50:16] [Server thread/INFO]: [Not Secure] <UPFUTX_300> zz
+[21:51:53] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[21:51:53] [Server thread/INFO]: 	say sd<--[HERE]
+[21:51:55] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:56:00] [Server thread/INFO]: [Not Secure] [Server] asd
+[21:57:22] [Server thread/WARN]: UPFUTX_300 moved too quickly! -0.567013039841072,-17.501957715453372,-0.25177094133618994
+[22:01:35] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[22:01:35] [Server thread/INFO]: saya sd<--[HERE]
+[22:01:37] [Server thread/INFO]: [Not Secure] [Server] asd
+[22:02:43] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[22:02:43] [Server thread/INFO]: UPFUTX_300 left the game
+[22:02:47] [Server thread/INFO]: Stopping the server
+[22:02:47] [Server thread/INFO]: Stopping server
+[22:02:47] [Server thread/INFO]: Saving players
+[22:02:47] [Server thread/INFO]: Saving worlds
+[22:02:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:02:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:02:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:02:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:02:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:02:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:02:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
